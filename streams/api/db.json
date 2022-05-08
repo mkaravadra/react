@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "Test 1",
+      "description": "This is a first test",
+      "id": 1
+    },
+    {
+      "title": "Test 2",
+      "description": "This is second test",
+      "id": 2
+    },
+    {
+      "title": "Test 3",
+      "description": "This is third test",
+      "userId": "114451248625983014729",
+      "id": 3
+    }
+  ]
+}
